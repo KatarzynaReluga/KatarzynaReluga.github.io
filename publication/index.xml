@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Katarzyna Reluga</title>
+    <link>https://KatarzynaReluga.github.io/publication/</link>
+      <atom:link href="https://KatarzynaReluga.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://KatarzynaReluga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://KatarzynaReluga.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A unified analysis of regression adjustment in randomized experiments</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-qz/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-qz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous inference for linear mixed model parameters with an application to small area estimation</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-isr/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-isr/</guid>
+      <description>&lt;p&gt;s&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simple bootstrap for linear mixed effects under model misspecification</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-ss/</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-ss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post-selection inference for linear mixed model parameters using the conditional Akaike information criterion</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-gerda/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-gerda/</guid>
+      <description>&lt;p&gt;s&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simultaneous inference for empirical best predictors with a poverty study in small areas</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-jasa/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-jasa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
