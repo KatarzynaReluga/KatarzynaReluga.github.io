@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>The impact of job stability on monetary poverty in Italy. Causal small area estimation.</title>
-      <link>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy.-causal-small-area-estimation./</link>
+      <title>The impact of job stability on monetary poverty in Italy - causal small area estimation</title>
+      <link>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy-causal-small-area-estimation/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy.-causal-small-area-estimation./</guid>
+      <guid>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy-causal-small-area-estimation/</guid>
       <description></description>
     </item>
     
@@ -303,7 +303,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-854692317&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-135627984&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -313,7 +313,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-854692317&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-135627984&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
