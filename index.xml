@@ -25,8 +25,7 @@
       <link>https://KatarzynaReluga.github.io/publication/reluga-isr/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://KatarzynaReluga.github.io/publication/reluga-isr/</guid>
-      <description>&lt;p&gt;s&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -304,7 +303,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-129846573&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-298641735&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -314,7 +313,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-129846573&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-298641735&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
