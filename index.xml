@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Small data analysis in sample surveys</title>
+      <link>https://KatarzynaReluga.github.io/talk/small-data-analysis-in-sample-surveys/</link>
+      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/talk/small-data-analysis-in-sample-surveys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simultaneous inference for linear mixed model parameters with an application to small area estimation</title>
       <link>https://KatarzynaReluga.github.io/publication/reluga-isr/</link>
       <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
@@ -303,7 +311,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-135627984&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-317485269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -313,7 +321,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-135627984&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-317485269&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
