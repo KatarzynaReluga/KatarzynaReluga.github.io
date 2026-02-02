@@ -5,12 +5,20 @@
     <link>https://KatarzynaReluga.github.io/</link>
       <atom:link href="https://KatarzynaReluga.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Katarzyna Reluga</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KatarzynaReluga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Katarzyna Reluga</title>
       <link>https://KatarzynaReluga.github.io/</link>
     </image>
+    
+    <item>
+      <title>Direct Doubly Robust Estimation of Conditional Quantile Contrasts</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-jgivens/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-jgivens/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of job stability on monetary poverty in Italy -- causal small area estimation</title>
@@ -326,7 +334,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-792538416&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-762194835&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -336,7 +344,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-792538416&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-762194835&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
