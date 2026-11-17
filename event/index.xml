@@ -5,7 +5,7 @@
     <link>https://KatarzynaReluga.github.io/event/</link>
       <atom:link href="https://KatarzynaReluga.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Dec 2026 09:55:00 +0100</lastBuildDate>
     <image>
       <url>https://KatarzynaReluga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,27 +13,31 @@
     </image>
     
     <item>
-      <title>The impact of job stability on monetary poverty in Italy - causal small area estimation</title>
-      <link>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy-causal-small-area-estimation/</link>
-      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://KatarzynaReluga.github.io/talk/the-impact-of-job-stability-on-monetary-poverty-in-italy-causal-small-area-estimation/</guid>
-      <description></description>
+      <title>From start to finish: Small area learning</title>
+      <link>https://KatarzynaReluga.github.io/talk/from-start-to-finish-small-area-learning/</link>
+      <pubDate>Mon, 14 Dec 2026 09:55:00 +0100</pubDate>
+      <guid>https://KatarzynaReluga.github.io/talk/from-start-to-finish-small-area-learning/</guid>
+      <description>&lt;p&gt;Session “Survey sampling: New methods and applications”, Room 20 (CO126).&lt;/p&gt;
+&lt;p&gt;The conference takes place 12–14 December 2026 at the Wilhelminenhof campus of HTW Berlin. The talk is listed as A1867 in the programme.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Small data analysis in sample surveys</title>
-      <link>https://KatarzynaReluga.github.io/talk/small-data-analysis-in-sample-surveys/</link>
-      <pubDate>Wed, 17 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://KatarzynaReluga.github.io/talk/small-data-analysis-in-sample-surveys/</guid>
-      <description></description>
+      <title>Multi-target semi-supervised learning with application to small area estimation</title>
+      <link>https://KatarzynaReluga.github.io/talk/multi-target-semi-supervised-learning-isnps-2026/</link>
+      <pubDate>Tue, 23 Jun 2026 09:00:00 +0300</pubDate>
+      <guid>https://KatarzynaReluga.github.io/talk/multi-target-semi-supervised-learning-isnps-2026/</guid>
+      <description>&lt;p&gt;Invited talk in the session “Contributions to Understandable Machine Learning”.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Machine learning methods for heterogenous area-specific treatment effect estimation</title>
-      <link>https://KatarzynaReluga.github.io/talk/machine-learning-methods-for-heterogenous-area-specific-treatment-effect-estimation/</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://KatarzynaReluga.github.io/talk/machine-learning-methods-for-heterogenous-area-specific-treatment-effect-estimation/</guid>
-      <description></description>
+      <title>Multi-target semi-supervised learning</title>
+      <link>https://KatarzynaReluga.github.io/talk/multi-target-semi-supervised-learning-sae-2025/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/talk/multi-target-semi-supervised-learning-sae-2025/</guid>
+      <description>&lt;p&gt;Invited talk in the session “Advancements in Dependent Data Analysis with Applications to Small Area Estimation”.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

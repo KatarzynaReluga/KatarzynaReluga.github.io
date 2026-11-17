@@ -5,12 +5,36 @@
     <link>https://KatarzynaReluga.github.io/publication/</link>
       <atom:link href="https://KatarzynaReluga.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 11 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://KatarzynaReluga.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://KatarzynaReluga.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Small area learning</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-sal/</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-sal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution Shift in Missing Data Imputation: A Risk-Based Perspective and Importance-Weighted Correction under MAR</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-shannon/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-shannon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direct Doubly Robust Estimation of Conditional Quantile Contrasts</title>
+      <link>https://KatarzynaReluga.github.io/publication/reluga-jgivens/</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://KatarzynaReluga.github.io/publication/reluga-jgivens/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The impact of job stability on monetary poverty in Italy -- causal small area estimation</title>
